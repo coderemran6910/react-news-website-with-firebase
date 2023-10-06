@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "category_name": "Top Stories",
+      "link": "/top-stories"
+    },
+    {
+      "id": "2",
+      "category_name": "Politics",
+      "link": "/politics"
+    },
+    {
+      "id": "3",
+      "category_name": "Business",
+      "link": "/business"
+    },
+    {
+      "id": "4",
+      "category_name": "Technology",
+      "link": "/technology"
+    },
+    {
+      "id": "5",
+      "category_name": "World News",
+      "link": "/world-news"
+    },
+    {
+      "id": "6",
+      "category_name": "Health",
+      "link": "/health"
+    },
+    {
+      "id": "7",
+      "category_name": "Science",
+      "link": "/science"
+    },
+    {
+      "id": "8",
+      "category_name": "Entertainment",
+      "link": "/entertainment"
+    },
+    {
+      "id": "9",
+      "category_name": "Sports",
+      "link": "/sports"
+    },
+    {
+      "id": "10",
+      "category_name": "Opinion",
+      "link": "/opinion"
+    }
+  ]
